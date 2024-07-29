@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Czym są 'Feature Flags' i jak ich używać? (film, 53 minuty, PL)",
+        "url": "https://www.youtube.com/watch?v=qWwnCH9QUsE",
+        "info": "INFO: Jak wprowadzić do produkcji nową funkcję lub fixa, który być może zadziała, a być może spowoduje pewien problem? Na pomoc przychodzą Feature Flags/Toggles. Tylko jak z nich prawidłowo korzystać i czego unikać? Tego dowiesz się z naszego filmu.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Oort - naucz się RUST-a grając w grę",
+        "url": "https://oort.rs/",
+        "info": "INFO: Sterujesz statkiem kosmicznym i wykonujesz zadania, tworząc kod w języku Rust. Nie znam tego języka, ale bez większych problemów, 'na chłopski rozum', rozwiązałem kilka pierwszych zadań, wzorując się na podanych przykładach. Misję wybierasz w rozwijanym menu w prawym górnym rogu strony. Warto zaliczyć wszystkie misje z tutoriala, aby zrozumieć zasady sterowania statkiem i mechanikę gry.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Popularne wzorce integracji aplikacji z API",
+        "url": "https://www.freecodecamp.org/news/api-integration-patterns/",
+        "info": "INFO: Czym różni się pooling od long polling? Jaka jest różnica między REST, GraphQL a RPC? Do czego potrzebne Ci są websockety? Czym są webhooki? Ten materiał byłby dobry, na przykład, jako przygotowanie do rozmowy o pracę na stanowisko developera.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Przegląd 12 frameworków webowych dla Pythona",
+        "url": "https://dev.to/urwashipriya651/top-12-python-web-development-frameworks-in-2023-3mom",
+        "info": "INFO: Świat Pythona webowego nie kończy się na Django i Flasku. Istnieją jeszcze inne, równie godne uwagi projekty, o których istnieniu mogłeś nigdy nie słyszeć.",
+        "date": "2023-10-27"
+    }
+]
